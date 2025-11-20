@@ -5492,7 +5492,7 @@ GameObject:
   - component: {fileID: 1145363835}
   - component: {fileID: 1145363836}
   m_Layer: 0
-  m_Name: Room2
+  m_Name: Room4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5724,7 +5724,7 @@ GameObject:
   - component: {fileID: 1205021994}
   - component: {fileID: 1205021995}
   m_Layer: 0
-  m_Name: Room1
+  m_Name: Room3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6180,7 +6180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7682784224401088246, guid: a3be38bd6afbbbc4ba8ea2e7ed4df4a3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.046709
+      value: 2.55
       objectReference: {fileID: 0}
     - target: {fileID: 7682784224401088246, guid: a3be38bd6afbbbc4ba8ea2e7ed4df4a3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7428,7 +7428,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696465855}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.511, y: -4.199, z: 0}
+  m_LocalPosition: {x: -9.41, y: -4.199, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children: []
   m_Father: {fileID: 885756767}
@@ -9586,7 +9586,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7819289608218101950, guid: b638aca6b2aa377458191df7a5110c3e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -6.82
       objectReference: {fileID: 0}
     - target: {fileID: 7819289608218101950, guid: b638aca6b2aa377458191df7a5110c3e, type: 3}
       propertyPath: m_LocalPosition.y
